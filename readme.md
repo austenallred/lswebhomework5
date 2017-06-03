@@ -1,3 +1,5 @@
+# Welcome to the world of JavaScript #
+
 Fork this repo to your own github repository, then clone it down to your computer.
 
 In this project you have an empty HTML and JavaScript file. You'll keep the HTML file the same, and make all of your changes to the JavaScript file (script.js).
